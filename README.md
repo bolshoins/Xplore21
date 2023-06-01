@@ -37,15 +37,15 @@ Execute the following sequence of code to start contributing and testing:
 
 - Run the migrations using the following commands
     ```sh
-    python3 manage.py makemigrations
+    python manage.py makemigrations
     ```
     ```sh
-    python3 manage.py migrate
+    python manage.py migrate
     ```
 
 - Run the Django server by
     ```sh
-    python3 manage.py runserver
+    python manage.py runserver
     ```
 
 <br>
